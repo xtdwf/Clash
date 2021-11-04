@@ -7,3 +7,4 @@ DOMAIN-SUFFIX,workers.dev
 ＃DOMAIN-SUFFIX,akamaiedge.net
 DOMAIN-KEYWORD,flightradar24
 DOMAIN-SUFFIX,api.cloudflare.com
+DOMAIN-SUFFIX,acme.zerossl.com
